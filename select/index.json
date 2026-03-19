@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "星めぐりの歌",
+  "base_artist": "MELL和VISUAL ARTS / Key",
+  "createdAt": "2026-03-19T14:00:46.870472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星めぐりの歌",
+      "artist": "加賀谷玲",
+      "has_synced": false,
+      "path": "select/01_星めぐりの歌_加賀谷玲.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星めぐりの歌",
+      "artist": "MELL",
+      "has_synced": false,
+      "path": "select/02_星めぐりの歌_MELL.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星めぐりの歌",
+      "artist": "EPO",
+      "has_synced": false,
+      "path": "select/03_星めぐりの歌_EPO.txt"
+    }
+  ]
+}
